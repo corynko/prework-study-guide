@@ -27,15 +27,15 @@ As this is a single webpage, no installation is required other than a web browse
 
 Users may review the material included in the pre-coursework by visiting this page. However, there are a couple of hidden surprises located in the console.
 
-To open the console, right click anywhere on the page and ![click "inspect."](assets/images/scrnsht_4.png)
+To open the console, right click anywhere on the page and click "inspect."![click "inspect."](assets/images/scrnsht_4.png) Alternatively, you can use shift-command-i on mac or shift-control-i on windows. 
 
-Note that the final line in the console reads !["Let's Study XXXX!"](assets/images/scrnsht_1.png) Your line may read HTML, CSS, Git, or JavaScript.
+Note that the final line in the console reads "Let's Study XXXX!"!["Let's Study XXXX!"](assets/images/scrnsht_1.png) Your line may read HTML, CSS, Git, or JavaScript.
 
-Refresh the page multiple times, and observe how the final line ![changes](assets/images/scrnsht_2.png) as you ![do so](assets/images/scrnsht_3), depending on the output of a random number generator.
+Refresh the page multiple times, and observe how the final line changes![changes](assets/images/scrnsht_2.png) as you do so,![do so](assets/images/scrnsht_3) depending on the output of a random number generator.
 
 ## Credits
 
-Created by [corynko], following step by step instructions from DU's BootCamp team, especially lernantino (https://github.com/lernantino). 
+Created by corynko, following step by step instructions from DU's BootCamp team, especially lernantino (https://github.com/lernantino). 
 
 The tutorial can be found here (https://courses.bootcampspot.com/courses/3652/modules), but requires a login for the course. 
 
@@ -43,7 +43,7 @@ The tutorial can be found here (https://courses.bootcampspot.com/courses/3652/mo
 
 MIT License
 
-Copyright (c) [2023] [corynko]
+Copyright (c) 2023 corynko
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
