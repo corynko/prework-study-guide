@@ -31,7 +31,7 @@ To open the console, right click anywhere on the page and click "inspect."![clic
 
 Note that the final line in the console reads "Let's Study XXXX!"!["Let's Study XXXX!"](assets/images/scrnsht_1.png) Your line may read HTML, CSS, Git, or JavaScript.
 
-Refresh the page multiple times, and observe how the final line changes![changes](assets/images/scrnsht_2.png) as you do so,![do so](assets/images/scrnsht_3) depending on the output of a random number generator.
+Refresh the page multiple times, and observe how the final line changes![changes](assets/images/scrnsht_2.png) as you do so,![do so](assets/images/scrnsht_3.png) depending on the output of a random number generator.
 
 ## Credits
 
